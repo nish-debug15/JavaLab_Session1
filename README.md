@@ -1,2 +1,2 @@
-# JavaLab_Session1
+# JavaLab_Sessions
 JAVA PROGRAMS
